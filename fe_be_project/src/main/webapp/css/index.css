@@ -1,0 +1,30 @@
+.slogun {
+  font-family: "neol";
+  color: white;
+  font-size: 19px;
+}
+
+.splash {
+  margin-left: 120px;
+  margin-top: 460px;
+  font-weight: 100;
+}
+
+.start {
+  font-family: "neom";
+  color: white;
+  margin-top: 190px;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 19px;
+}
+
+@font-face {
+  font-family: "neom";
+  src: url("font/AppleSDGothicNeoM.ttf");
+}
+
+@font-face {
+  font-family: "neol";
+  src: url("font/AppleSDGothicNeoL.ttf");
+}
