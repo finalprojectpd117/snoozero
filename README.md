@@ -50,7 +50,7 @@ ALTER TABLE user AUTO_INCREMENT = 1;
 &nbsp;
 
 ## Project Diagram
-
+<p align="center"><img width="700" alt="20220722_122612527" src="https://user-images.githubusercontent.com/105186724/212555064-ae91c4ed-7419-49c5-a06d-abf9a9f98fb2.png"></p>
 &nbsp;
 
 # 주요 기능
