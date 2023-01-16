@@ -100,5 +100,5 @@ ALTER TABLE user AUTO_INCREMENT = 1;
 &nbsp;
 
 ## 👨‍👩‍👦‍👦Team
-#### 👩‍💻 김승현
-#### 👩‍💻 표정환
+#### 🧑🏻‍💻 김승현
+#### 🧑🏻‍💻 표정환
